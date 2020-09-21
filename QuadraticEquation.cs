@@ -25,7 +25,7 @@ namespace QuadraticEquation
         }
         public double GetRoot1()
         {
-            return -b / (2.0 * a);
+            return -b / (2 * a);
         }
         public double GetRoot2x1()
         {
